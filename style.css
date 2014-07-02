@@ -1,0 +1,21 @@
+body {
+ 	background-color: black;
+ 	color: white;
+ 	font-family: Verdana;
+ 	font-size: 10px;
+ }
+
+.intro {
+ 	color: red;
+ 	font-weight: bold;
+  }
+
+.text {
+	color: gray;
+}  
+
+#list {
+	font-family: Arial;
+	font-weight: bold;
+	font-style: italic;
+}
